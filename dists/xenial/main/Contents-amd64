@@ -1,0 +1,11 @@
+usr/bin/tlpcc						    hlstlp
+usr/include/tlp.h					    hlstlp
+usr/include/tlp/mmap.h					    hlstlp
+usr/include/tlp/stream.h				    hlstlp
+usr/include/tlp/synthesizable/traits.h			    hlstlp
+usr/include/tlp/synthesizable/util.h			    hlstlp
+usr/lib/cmake/tlp/TLPCCConfig.cmake			    hlstlp
+usr/lib/cmake/tlp/TLPConfig.cmake			    hlstlp
+usr/lib/cmake/tlp/TLPTargets-release.cmake		    hlstlp
+usr/lib/cmake/tlp/TLPTargets.cmake			    hlstlp
+usr/lib/libtlp.a					    hlstlp

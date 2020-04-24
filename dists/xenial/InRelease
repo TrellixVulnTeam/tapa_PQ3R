@@ -1,0 +1,50 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Architectures: amd64
+Codename: xenial
+Components: main
+Date: Fri, 24 Apr 2020 02:26:30 UTC
+Label: High-Level Synthesis Task-Level Parallelization Repository
+MD5Sum:
+ 5ec8e9ac9eda513c16487d776b900c16              157 Release
+ fc006d754df60a56bc056e03e98647e5              473 main/Contents-amd64
+ 7447f2bd6813c89710f52c522138dcfc              172 main/Contents-amd64.gz
+ 9d73239b8ef854589904864a9a98dcf6              623 main/binary-amd64/Packages
+ cb2cf8c0274dae067d5e86f22d41e400              450 main/binary-amd64/Packages.gz
+ f7e4dd78e31214b1fca104005d532a88              830 main/binary-amd64/Release
+SHA1:
+ 6045f2d448df262b8df0a50d38911cd7e2d5e650              157 Release
+ c7288533cfe3bf0aa75d09a73eea2fd94193aa74              473 main/Contents-amd64
+ 5116771dd3a7ed970ec2ee3863ec7a6c73d76a93              172 main/Contents-amd64.gz
+ 1b21f8de9571f70be03f8651c2f4bffb6f78ec49              623 main/binary-amd64/Packages
+ ea6abc76d566d5c850dfa2f9ea141d9aa5220601              450 main/binary-amd64/Packages.gz
+ 8b42dfb953e86dde423ccd0df96eacfec080ae73              830 main/binary-amd64/Release
+SHA256:
+ 824b4c8d333453751b80f2d41d5a72bf54d023012d51630394979c7211a2b35b              157 Release
+ a39e674b5d2cd3d59565587cc6695ce2263baaa4195555beefcdf4fcfddb1e65              473 main/Contents-amd64
+ 9ba223cc277a61272a60a72bd6c6db164b9c26956c37528f53140c0a2fe333d3              172 main/Contents-amd64.gz
+ 2483c21042d9b4f0c39015602e83301663c9182aa889403c6f41e277d4fe5dce              623 main/binary-amd64/Packages
+ ba97c4f7fd2d6970732c4c95d20c46590a12e7c310e173540951909481f68732              450 main/binary-amd64/Packages.gz
+ d27811c3298021f4c1da4241d3bb663c22d02eaf98d7af44f672ac2f11d9e187              830 main/binary-amd64/Release
+SHA512:
+ c71999c3bea7e3ce3bd3267ef14cb5aae4dc53eaa5911a0445beb67f3948ccca99605c3e270c07c95cc6aa64715df87d7f1be83e6ab507687778773c3d6898f6              157 Release
+ 8ec0deb9d3a9e63e1fb6ca15af2d65199d7a96eef13004f4d948663c375731a7ed1a66ff7ecc1ea3f2d69e27f0d47aa60c9b109552ee0b9d4924cfd5a22636a7              473 main/Contents-amd64
+ 53351fab552d67de2a65d6f7c0874a7c3fd6fef4f579071411ff75d0c3b99176d3009915716460e047646c77128f43435f8eb245297d575bebc52dc160bcf43d              172 main/Contents-amd64.gz
+ 3acc96e8c82cce42e6e19d2f5239831dd42612e62ff497b4084c734b030637f0588b3da66f77bc11d6aad586efcd55fd0e28c8a95ed3b4260b56d940d0a65e8c              623 main/binary-amd64/Packages
+ d8ca21aeefbd90a09159746f3333c1111484a86d1cd3e3406d84b15d013b52244d97e5106105e0d878fee29d2abe6f22cfb6f00fd96e6dc74ecf78d16885e2e9              450 main/binary-amd64/Packages.gz
+ 06e513c85611a2cd03bbea5cabf4b831c55b2b93f2bb108a28251824f913f572c2a4de2dd014a4233c30323d438f4b26803a5fffe2937fda8f8bc79c18f70514              830 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQGcBAEBAgAGBQJeok5WAAoJEE8PCOiFBJ4wvLEL/jDuhlB88csvuZ+6/q+H6FsW
+qRwmpMcqDUJYAPsQkJYQrMb2d7R7oEr9lQNGxiaTOG8PheFG34uh7R93FleR23JJ
+uzPG0v+F2TAyODSTZE93vm/e0H1s7vhD65Ot6Rz8t5PoBBN0/NWvEog3Azfr13Nq
+Oft/pk3R2yBkrMK1DeRcSPKuVxmQfunVnoaijq/gii9cf415Z6f4iZ1/AxTdkMYP
+qg3N1qVyByooSV48xsT74clcFH/9ZdVsHI/iBg7Ly35/z8mUl930XqLtMYms8duj
+J9kTrJv3vsZQMih/53Pd15ql3g5OjaDOT9TLPqavAg6vVZs31Idxe0ftZfWYrGZK
+Xzo93sQIkz3VWHyDA9UuFuEu2M7WKb9SJEbqmM3YsQgEr2VnaR9Vgpq9z5HX5tUa
+fTrcPelJAf2tTlGqo3Bb7V4clXx6SDtQBoeC67CqIiaurlIY1tj17QZR6/QnrsrJ
+5sK1fcwAJwkMSh4vVUDbfPzLMvvdMYC4mxCM5Z3caA==
+=cszd
+-----END PGP SIGNATURE-----
