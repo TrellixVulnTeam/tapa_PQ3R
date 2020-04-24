@@ -1,0 +1,50 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: bionic
+Components: main
+Date: Fri, 24 Apr 2020 03:18:25 +0000
+Label: High-Level Synthesis Task-Level Parallelization Repository
+MD5Sum:
+ 9ec3bdac525a5b89e2832b945fe6a314              159 Release
+ fc006d754df60a56bc056e03e98647e5              473 main/Contents-amd64
+ 7925ed2c43ad0d122f84ea20db4b5e6a              172 main/Contents-amd64.gz
+ 89a3bc3d34342ce420ce734f9c628a3f              624 main/binary-amd64/Packages
+ 68843a5a4bec18b47c7b6319a6b0b743              450 main/binary-amd64/Packages.gz
+ c6de9b15ad8a96bbfec56cb7b1b1c456              832 main/binary-amd64/Release
+SHA1:
+ 17cf0439c408a1f8178e7bfd0c429ff9a6b2b4aa              159 Release
+ c7288533cfe3bf0aa75d09a73eea2fd94193aa74              473 main/Contents-amd64
+ 19f1412b6708f5814a4566e0cf809ef00844ec3b              172 main/Contents-amd64.gz
+ 2639bab3f7639077e27b805511a045cb6767f6a5              624 main/binary-amd64/Packages
+ ff9273fb8773177a65867282598b4f4ccb5febf1              450 main/binary-amd64/Packages.gz
+ 3e4a52ff07d57c37a1c27ed86928e330b4e643c0              832 main/binary-amd64/Release
+SHA256:
+ 6d5a7bda68f238daafea3e1f9776162ba3e29539b736e3cef1e37beb4e4decd6              159 Release
+ a39e674b5d2cd3d59565587cc6695ce2263baaa4195555beefcdf4fcfddb1e65              473 main/Contents-amd64
+ f849518ff31a6e452660badd3200bf70554fb0cdf8999087488a31e4f4c60443              172 main/Contents-amd64.gz
+ 841eea8befeb20e99c8a0e6c0e7b76ef0927501acdb8fea4c2ffa8d53d4e93cc              624 main/binary-amd64/Packages
+ 5929759949fd827a8fb004dfa8bee3989b87ee6efdeac04098431cffed367b82              450 main/binary-amd64/Packages.gz
+ 4a1c87569e09d88e4a28f3945bfc394e135822ddc0260f4fbac790e9f9bd1619              832 main/binary-amd64/Release
+SHA512:
+ fe56d30a711517c73f45d7f1b4d4e59dee8cf73400634b43cf126f5c5194d7c5fbff84282cbb26e5f1d9e61a8ed4093e8acc021500d4f881da512827e1bd57f7              159 Release
+ 8ec0deb9d3a9e63e1fb6ca15af2d65199d7a96eef13004f4d948663c375731a7ed1a66ff7ecc1ea3f2d69e27f0d47aa60c9b109552ee0b9d4924cfd5a22636a7              473 main/Contents-amd64
+ 25cdbd68b897458d2b4f67d1a1a5a7f1eab37db3ef178ec1914300301a71515f834cd92c98a2afddc5501922bca1729d53eb3cca7731e4ce06e5a8a61042c81f              172 main/Contents-amd64.gz
+ be7e850adee1154569d367f06f5c4ea492bfd9b3c8d032fec0e6149f4921c0d6cf80db0826a4cd9480ec0120123a0977d4a61ab646c674a0dee936a7b8bc029c              624 main/binary-amd64/Packages
+ 8aa79a5f7c8c7ec692ce96c462facf5d100e701bec0d400a4372ee0dba1590eb90e26c48209192960d9893afa89c4ec17517a0e85684f2ce4bfc5b6f98a6ad52              450 main/binary-amd64/Packages.gz
+ af75939159a67fd85ec1b1069bc3ec9a9a278d072432cfc6d4e1f9ee064df52d6bbecfce31d33974b3ff6f1658ef147f17d995637037f9d99ad7a9c6ef22cf3b              832 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEGzA1Z30ShPBi42YhTw8I6IUEnjAFAl6iWoEACgkQTw8I6IUE
+njCoCAv+K1sJtNmn/gSjOMIIn7rtGwV2eThs/294x3DVI3+FBvsGyYzFwIJXVdN3
+mJSPKUwNDHZJi/3KfgBykGgGHR9dusnnsz64Ee5fpMuXxwuAQUEuPvx69FJy48oQ
+qzrCDHWh2g6WciVou0wyjncCteg0fQDAkzCuNCDQKEF8PoowE9revTVzy8Cx7uNe
+NQOz0/lnwfsinqay0ddhJ34T6/L25/7c8HLmlE9GYEkOfXBIDD2exP91iZIQpkGy
+a6jA9SAD86JlaB3a9UHHMCiWTQGhLgyeya2tA0GKg+pnGMwYVkvAVQdyoKcu3WMP
+r3v6br4p6NSULI/qVAGiV3gEsrVCEaBsW2zOU2ZHg/aZB9faQ6nygPeXHugYUs9G
+xmChi1kRoMaxxq1aJ5MAe7tnYX7IE430kVpas7R7CrrosuGCqxaoQeJov5+lEi0y
+P34tKTNOK7oOGhNwQDkaVQdrqpXUjyXC+WhNB8oExQavgyYyUkGwDP7LfuUznFds
+ZTK6Q8aF
+=UZJl
+-----END PGP SIGNATURE-----
