@@ -1,5 +1,6 @@
 usr/bin/tlpcc						    hlstlp
 usr/include/tlp.h					    hlstlp
+usr/include/tlp/coroutine.h				    hlstlp
 usr/include/tlp/mmap.h					    hlstlp
 usr/include/tlp/stream.h				    hlstlp
 usr/include/tlp/synthesizable/traits.h			    hlstlp
