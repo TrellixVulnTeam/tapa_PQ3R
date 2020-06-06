@@ -39,10 +39,10 @@ Maintainer: Blaok Chi
 Installed-Size: 28522
 Depends: clang, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59)
 Filename: pool/main/bionic/hlstlp_0.0.20200605.1_amd64.deb
-Size: 10382256
-MD5sum: 4976520d0168f071f6bbf7d3117ac2fa
-SHA1: 551b8f2a71497cd6ace6279ac904aa6d49bee5c2
-SHA256: fd93c90296f70dfc498594a363d707011f0ba3384756fd23c4d3ece0ff05d3d3
-SHA512: 9f56586028428a1b79bf8b830f9e0d4a3b745c005f2370b59e523d801e2b45e66dc9659aee2b13363e8c205e5d9a262a87fdaf50acab151a7a2a2fea0b530be4
+Size: 10382250
+MD5sum: 23da3ecf565707c21a8603764eab1d58
+SHA1: e4132ab8bde03826acb4cb5e148fa744495bfb54
+SHA256: 6bddfd6c19175fa2d7aa27502fab3b856d8f0ea3a10badef8045881970e53376
+SHA512: 95aff03090a4bc3ec9881ae008d7c64ed58f7d26595121ffc1d55717cdccdf6a83321bd63948ff91053694d4632ab020a1d1134359b49c7cec41ee84438d1d2a
 Description: High-Level Synthesis Task-Level Parallelization
 
