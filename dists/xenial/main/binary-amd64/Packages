@@ -7,11 +7,11 @@ Maintainer: Blaok Chi
 Installed-Size: 24922
 Depends: clang, iverilog, libgoogle-glog-dev
 Filename: pool/main/xenial/hlstlp_0.0.20200605.1_amd64.deb
-Size: 9583976
-MD5sum: 265b0269e6d7bad61dec820f4275094c
-SHA1: c1b0db122ca1017300128e029598d8d979702544
-SHA256: 92d6645d3400d4258f88f65a3edeea6b0585aa71359273dda445d19cf2bfc107
-SHA512: b4a0a3fd0ec3d05bb8eda50acada7db979d77d2ad0bd1e6e8931223e0e91eb23cedc3543ca12a37185f70cbb426d502119ff7468a32ba56e8ac5349de35764d3
+Size: 9583958
+MD5sum: 945a0718571e8be883d7d43201356736
+SHA1: 554e39258ff400f60e73676327fc59b78ac88e74
+SHA256: af9155de7fb39b8d5913cfd0daffb34b41a65251a4f963a751a7a797ab09d464
+SHA512: 44ddea1c04c7a81f5e8b8d22f0e7509da822ace1e642ef42f413a891768d210309ea1d3c34472a5452910d0f52a2da3fcfcdd45d66c19a62e6f90dd67aa2d5d2
 Description: High-Level Synthesis Task-Level Parallelization
 
 Package: hlstlp
@@ -28,5 +28,21 @@ MD5sum: 53da006d301cc7bbd2b910ce81e1a99c
 SHA1: a63c5798f3d311060b8b2339d6a4fa651bfc31cc
 SHA256: 947e1d5da6a9abd5e669a539ca8f98b02bc4c7326fcbac27544164604aca2497
 SHA512: 1b91bd87881581e65e349ebc391f090f8ea6dd814954bd0acbe8de3bf4c988dfb5aae624c905b8886dd1a169208eea2de9917318cac3bd827d60790d72f0cbf8
+Description: High-Level Synthesis Task-Level Parallelization
+
+Package: hlstlp
+Architecture: amd64
+Version: 0.0.20200606.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 24924
+Depends: clang, iverilog, libgoogle-glog-dev
+Filename: pool/main/xenial/hlstlp_0.0.20200606.1_amd64.deb
+Size: 9584226
+MD5sum: 2bfee16bb799bf5311437ef333c70850
+SHA1: 601e9f1f4cf5c243bb3def3c676eef443bf4680d
+SHA256: d9b39ee0f854ee4ded5a54ca6acfeb420720869f1849e80f4812586d69a8e054
+SHA512: 42a716c25bfb1ecc171c423c9e9fba8a64d0f45ffc276a4e0afd21a265adc0c6b8ba5d349f974b797cc3212e2332d85991fbe8f17f3c20e0a863332141a54f30
 Description: High-Level Synthesis Task-Level Parallelization
 
