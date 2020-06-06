@@ -1,5 +1,21 @@
 Package: hlstlp
 Architecture: amd64
+Version: 0.0.20200605.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 24922
+Depends: clang, iverilog, libgoogle-glog-dev
+Filename: pool/main/xenial/hlstlp_0.0.20200605.1_amd64.deb
+Size: 9583976
+MD5sum: 265b0269e6d7bad61dec820f4275094c
+SHA1: c1b0db122ca1017300128e029598d8d979702544
+SHA256: 92d6645d3400d4258f88f65a3edeea6b0585aa71359273dda445d19cf2bfc107
+SHA512: b4a0a3fd0ec3d05bb8eda50acada7db979d77d2ad0bd1e6e8931223e0e91eb23cedc3543ca12a37185f70cbb426d502119ff7468a32ba56e8ac5349de35764d3
+Description: High-Level Synthesis Task-Level Parallelization
+
+Package: hlstlp
+Architecture: amd64
 Version: 0.0.20200423.1
 Priority: optional
 Section: devel
