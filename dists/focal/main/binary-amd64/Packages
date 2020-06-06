@@ -1,0 +1,16 @@
+Package: hlstlp
+Architecture: amd64
+Version: 0.0.20200605.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30075
+Depends: clang, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59)
+Filename: pool/main/focal/hlstlp_0.0.20200605.1_amd64.deb
+Size: 10942358
+MD5sum: d9cf0673b1e12db90439f56a51d2eb75
+SHA1: fdb58cc18a4f1ca1ca71defbeadf58011e4adaa3
+SHA256: 836ef7f88f4e4a2f55c606f6ad757af4698ebff3443cb255cf2c313494da8e4f
+SHA512: 6e3a1e7306fd468d75372b808dc12e2c8cbd17159e147b6bdf1bd10b70cb0a5501dfd00d3d06bc2f9d4067f14d19dca5da554ac8c0737d2fe4270a9c37e4ff43
+Description: High-Level Synthesis Task-Level Parallelization
+
