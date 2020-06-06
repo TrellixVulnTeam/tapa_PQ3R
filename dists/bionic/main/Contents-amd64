@@ -10,3 +10,4 @@ usr/lib/cmake/tlp/TLPConfig.cmake			    hlstlp
 usr/lib/cmake/tlp/TLPTargets-release.cmake		    hlstlp
 usr/lib/cmake/tlp/TLPTargets.cmake			    hlstlp
 usr/lib/libtlp.a					    hlstlp
+usr/lib/libtlp.so					    hlstlp
