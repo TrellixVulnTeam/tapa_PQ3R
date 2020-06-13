@@ -110,3 +110,19 @@ SHA256: 69cf3683bcbf5d375f5ffc36cc73ee8dc5a20154a3c0aa8924be335ee41f58b8
 SHA512: 6e7523859a7636eb20f627fe45e868c23267068d731b2f5b1f6c8c12fb29829e3b3facd6552fa9f56f5887173dcbb053c68f43b3a52d3198638c7ea86887f21d
 Description: High-Level Synthesis Task-Level Parallelization
 
+Package: hlstlp
+Architecture: amd64
+Version: 0.0.20200612.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 28526
+Depends: clang, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59)
+Filename: pool/main/bionic/hlstlp_0.0.20200612.1_amd64.deb
+Size: 10383074
+MD5sum: cce96a68a2e93d3fda344703d57f0443
+SHA1: 33f80c8cc63adee8bdf33f32cb4ed322b80a6dd3
+SHA256: cbaf2cab354b15426360b3a90296bc08264f687039b0ec298c5eecc84bec699a
+SHA512: 52bc7be94a2a12ec4198365115237dc6e3741a1efb7cbaeddb8b473f13b7a8d0d9704c372276b3a709219aa315611aa0d95e52c4a00625c3178105a95939447f
+Description: High-Level Synthesis Task-Level Parallelization
+
