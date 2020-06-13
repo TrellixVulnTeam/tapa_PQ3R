@@ -5,6 +5,7 @@ usr/include/tlp/mmap.h					    hlstlp
 usr/include/tlp/stream.h				    hlstlp
 usr/include/tlp/synthesizable/traits.h			    hlstlp
 usr/include/tlp/synthesizable/util.h			    hlstlp
+usr/include/tlp/synthesizable/vec.h			    hlstlp
 usr/lib/cmake/tlp/TLPCCConfig.cmake			    hlstlp
 usr/lib/cmake/tlp/TLPConfig.cmake			    hlstlp
 usr/lib/cmake/tlp/TLPTargets-release.cmake		    hlstlp
