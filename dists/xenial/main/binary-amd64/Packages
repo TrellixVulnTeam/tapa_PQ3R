@@ -99,6 +99,23 @@ Description: Task-Parallel High-Level Synthesis
 
 Package: tapa
 Architecture: amd64
+Version: 0.0.20201203.2
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 25449
+Depends: clang-8, iverilog, libgoogle-glog-dev
+Recommends: libfrt-dev
+Filename: pool/main/xenial/tapa_0.0.20201203.2_amd64.deb
+Size: 9762372
+MD5sum: 843aa3381b53f4592f12f4248661db62
+SHA1: 40f550198e14f1079b6a7d963c130ad800fbd8ec
+SHA256: 53579de1dc372a29ef431af934edb2e6e72906f8e85d0754f0388ed54320b106
+SHA512: 42bc69f2989e1f90492d4a49d2d36f4d4250445c08e6675a369330c91a2ae7fb06f36aa66565ba6f6c342045d41c1d145d32dc0785c796a6e6b84fc9b7dbe699
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
 Version: 0.0.20200808.1
 Priority: optional
 Section: devel
