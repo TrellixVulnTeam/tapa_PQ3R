@@ -266,6 +266,23 @@ SHA256: 9bc5d3369b5cd8369c4a5d1d119731f044caaa71b445b717ce806c32bec1c13b
 SHA512: b7679c1e613545c149335fc998acb143f350c0947472b76879a479f2f1b830d5854c027092a953db7b35e95cc1fd7fe6c8cedae320ea5abe1da270946c9406d6
 Description: Task-Parallel High-Level Synthesis
 
+Package: tapa
+Architecture: amd64
+Version: 0.0.20210313.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 25344
+Depends: clang-8, g++, iverilog, libgoogle-glog-dev
+Recommends: libfrt-dev
+Filename: pool/main/xenial/tapa_0.0.20210313.1_amd64.deb
+Size: 9719852
+MD5sum: ac1844a7cfacb5f5733866a7f65712fa
+SHA1: d0c90d6812046e103db7c3dea685ecae02cfa228
+SHA256: 688cb3d9684b10111dd9dd339cc3df708711aca7571f0df03d3ba677774389e9
+SHA512: ea8cd8843f47f511f9841ecc43e1b84f7d2a758d7775cdaa691df0bb87a1e243b55debca56358763960f16713ef05c06f624f92fbb8b76991a151ab1541ed677
+Description: Task-Parallel High-Level Synthesis
+
 Package: hlstlp
 Architecture: amd64
 Version: 0.0.20200716.1
