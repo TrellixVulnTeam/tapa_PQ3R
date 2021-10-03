@@ -7,6 +7,9 @@ usr/include/tapa/stream.h				    tapa
 usr/include/tapa/synthesizable/traits.h			    tapa
 usr/include/tapa/synthesizable/util.h			    tapa
 usr/include/tapa/synthesizable/vec.h			    tapa
+usr/include/tapa/traits.h				    tapa
+usr/include/tapa/util.h					    tapa
+usr/include/tapa/vec.h					    tapa
 usr/include/tlp.h					    hlstlp
 usr/include/tlp/coroutine.h				    hlstlp
 usr/include/tlp/mmap.h					    hlstlp
