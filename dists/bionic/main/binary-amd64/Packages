@@ -691,3 +691,19 @@ SHA256: ed4102874f653e33993e1fc7f2089e8a63281901f2f9be94497051905c0eab66
 SHA512: 92d7bbfd2653572b4d8759259b713ad3244800eb114464bce5b8ed748401fe69b7cb1840805f325e0acde1fb104f4fcb1d0f49a071b8004e37011df4abbe1803
 Description: Task-Parallel High-Level Synthesis
 
+Package: tapa
+Architecture: amd64
+Version: 0.0.20220505.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 28498
+Depends: g++, iverilog, libboost-coroutine-dev(>=1.65.1), libboost-stacktrace-dev(>=1.65.1), libfrt-dev (>= 0.0.20220403.1), libgoogle-glog-dev, rsync
+Filename: pool/main/bionic/tapa_0.0.20220505.1_amd64.deb
+Size: 10386954
+MD5sum: c1eec65f6b5eeece1404cd7943bd14c7
+SHA1: 3e3d8cddc1ebd3584a39e7c08d456a4777e9d5a4
+SHA256: 3c6e22c4347be1be909f8b63ecb04854473e2b6e168a1dd1aa642c13c7b24358
+SHA512: 3c37e6bba47ff5e5671fb4afd49d79d89ce11c70e3fbebc1b9d756b6e64c0e0917aacfa9f91c45f30048acdfe30fe8e43728cd6e6a11f4bde511bb20c464bf12
+Description: Task-Parallel High-Level Synthesis
+
